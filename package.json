@@ -1,0 +1,27 @@
+{
+  "name": "migracode-06-06-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "debug": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardBargues/migracode-06-06-2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardBargues/migracode-06-06-2022/issues"
+  },
+  "homepage": "https://github.com/EduardBargues/migracode-06-06-2022#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
